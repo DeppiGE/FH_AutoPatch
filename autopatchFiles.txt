@@ -1,0 +1,12 @@
+ItemInfo.shn
+NpcDialogData.shn
+MobInfo.shn
+MobSpecies.shn
+ItemMoney.shn
+ChargedEffect.shn
+GradeItemOption.shn
+ItemShopView.shn
+NPCViewInfo.shn
+MobViewInfo.shn
+ItemViewInfo.shn
+MapViewInfo.shn
